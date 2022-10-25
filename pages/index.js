@@ -17,14 +17,6 @@ const dummy_meetups = [
     address: 'Some address 5, 12345 Some city',
     description: 'This is the second meetup',
   },
-  //   {
-  //     id: 'm3',
-  //     name: 'A third meetup',
-  //     image:
-  //       'https://upload.wikimedia.org/wikipedia/commons/d/d3/Stadtbild_M%C3%BCnchen.jpg',
-  //     address: 'Some address 5, 12345 Some city',
-  //     description: 'This is the third meetup',
-  //   },
 ];
 
 export default function HomePage() {
